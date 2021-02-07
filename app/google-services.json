@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009899615196",
+    "project_id": "meme-app-1175f",
+    "storage_bucket": "meme-app-1175f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009899615196:android:2f15d5e5c06cf364245519",
+        "android_client_info": {
+          "package_name": "www.bhupati.memeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009899615196-61p5prel426inh32sr3vnpo35m6f513m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrWxNxk7oWqGmKWhGDe388S64Wrf7OZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009899615196-61p5prel426inh32sr3vnpo35m6f513m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

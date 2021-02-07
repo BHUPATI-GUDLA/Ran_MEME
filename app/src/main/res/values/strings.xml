@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MEME APP</string>
+
+    <string name="next">next</string>
+    <string name="share1">share</string>
+    <string name="next1"><![CDATA[next >>]]></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="Signup">signup</string>
+
+</resources>

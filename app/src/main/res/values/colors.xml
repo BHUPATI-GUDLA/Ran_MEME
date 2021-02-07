@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CAD1C9</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Button">#EFBF78</color>
+    <color name="sharebutton">#FADFAF</color>
+    <color name="nextbutton">#F4C0B0</color>
+</resources>
